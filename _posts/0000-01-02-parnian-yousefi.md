@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This files is a changed file of master branch
 Use the left arrow to go back!
